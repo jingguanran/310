@@ -1,0 +1,24 @@
+{
+  "name": "jgrgithub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "angular": "^1.6.3",
+    "zepto": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jingguanran/jingguanran.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jingguanran/jingguanran.github.io/issues"
+  },
+  "homepage": "https://github.com/jingguanran/jingguanran.github.io#readme"
+}
